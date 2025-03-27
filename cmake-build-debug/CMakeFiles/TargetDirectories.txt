@@ -1,0 +1,3 @@
+D:/PTIT/Kỳ 2_2025/C++/cpluspluproject/cmake-build-debug/CMakeFiles/cpluspluproject.dir
+D:/PTIT/Kỳ 2_2025/C++/cpluspluproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PTIT/Kỳ 2_2025/C++/cpluspluproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
